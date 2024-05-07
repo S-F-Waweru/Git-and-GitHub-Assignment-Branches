@@ -1,0 +1,7 @@
+Createfour branches ( excluding master) 
+Java – app.java
+CSHARP –main.cs
+JAVASCRIPT-app.js
+TYPESCRIPT-app.ts
+Push the four branches and create a pull request
+merge to your main branch
